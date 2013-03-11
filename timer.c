@@ -19,6 +19,12 @@ int main(int argc, char **argv) {
 	return 0;
 }
 
+void write_splits(ROUTE *route, char *filename) {
+
+
+	
+}
+
 void read_splits(ROUTE *route, char *filename) {
 	char input;
 	int i;
